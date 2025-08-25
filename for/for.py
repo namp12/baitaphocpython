@@ -169,10 +169,11 @@
 # dùng count đếm số lần xuất hiện
 # print(s.count("a"))
 
-s = "phuong nam"
-am = "pn"
-print(any(ch in am for ch in s))
+# s = "phuong nam"
+# am = "pn"
+# print(any(ch in am for ch in s))
 #* 25. Xóa tất cả khoảng trắng trong chuỗi.
+
 #* 26. In tất cả phần tử trong danh sách 2 chiều.
 #* 27. Tính tổng phần tử trong danh sách [2,4,6,8].
 #* 28. Tìm phần tử lớn nhất trong danh sách.
